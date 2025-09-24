@@ -1,0 +1,20 @@
+{
+    "name": "Omar",
+    "modules": [
+        {
+            "name": "Programmieren",
+            "ects": 10,
+            "grade": 1.7
+        },
+        {
+            "name": "Datenbanken",
+            "ects": 5,
+            "grade": 2.3
+        },
+        {
+            "name": "Data Science",
+            "ects": 10,
+            "grade": null
+        }
+    ]
+}
