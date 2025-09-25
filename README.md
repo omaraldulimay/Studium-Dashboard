@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ### 4. Anwendung starten
 ```bash
-python main.py
+streamlit run dashboard.py
 ```
 
 ---
