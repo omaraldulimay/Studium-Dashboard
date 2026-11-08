@@ -3,7 +3,7 @@
 ## Installationsanleitung
 
 **Projektname:** Studien-Dashboard  
-**Autor:** Omar Abdullah (Matrikelnummer: 102210158)  
+**Autor:** Omar Abdullah  
 
 ---
 
